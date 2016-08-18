@@ -1,0 +1,17 @@
+{
+    "name": "exo2-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Natanael Gama"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/exo2-bower.git"
+    },
+    "description": "Exo 2 font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
